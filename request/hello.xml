@@ -1,0 +1,7 @@
+<x:Envelope xmlns:x = "http://schemas.xmlsoap.org/soap/envelope/"
+            xmlns:tns = "http://specialist.ru/schemas">
+    <x:Header/>
+    <x:Body>
+        <tns:helloRequest/>
+    </x:Body>
+</x:Envelope>

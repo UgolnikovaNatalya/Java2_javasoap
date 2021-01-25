@@ -1,0 +1,14 @@
+ru\specialist\java\web\soap\BookService.class
+ru\specialist\java\web\soap\HelloResponse.class
+ru\specialist\java\web\soap\GetBookResponse.class
+ru\specialist\java\web\soap\package-info.class
+ru\specialist\java\web\soap\GetBookRequest.class
+ru\specialist\java\web\soap\ObjectFactory.class
+ru\specialist\java\web\soap\BookEndPoint.class
+ru\specialist\java\web\soap\HelloRequest.class
+ru\specialist\java\web\soap\Book.class
+ru\specialist\java\web\soap\DataSourceConfig.class
+ru\specialist\java\web\soap\HelloEndPoint.class
+ru\specialist\java\web\soap\GetBooksRequest.class
+ru\specialist\java\web\soap\Author.class
+ru\specialist\java\web\soap\GetBooksResponse.class
